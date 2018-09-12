@@ -37,7 +37,12 @@ class ViewController: UIViewController {
         let total = bill + tip
         totalLabel.text = String(format: "$%.2f", total)
         tipLabel.text = String(format: "$%.2f", tip)
-        print("hello")
+        
+        
+        
+        
+        
+        
         
     }
     
