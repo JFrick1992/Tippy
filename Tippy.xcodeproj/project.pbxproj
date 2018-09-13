@@ -99,10 +99,10 @@
 			children = (
 				5B10CEDC2141FA2600D6D6FD /* AppDelegate.swift */,
 				5B10CEDE2141FA2600D6D6FD /* ViewController.swift */,
-				5B10CEE02141FA2600D6D6FD /* Main.storyboard */,
 				5B10CEE32141FA2800D6D6FD /* Assets.xcassets */,
 				5B10CEE52141FA2800D6D6FD /* LaunchScreen.storyboard */,
 				5B10CEE82141FA2800D6D6FD /* Info.plist */,
+				5B10CEE02141FA2600D6D6FD /* Main.storyboard */,
 			);
 			path = Tippy;
 			sourceTree = "<group>";
